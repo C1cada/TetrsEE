@@ -15,7 +15,7 @@ colors = [
 ]
 
 initialPopulation = 200
-mutationRate = 0.2
+mutationRate = 0.05
 mutationStep = 0.5
 
 class Figure:
